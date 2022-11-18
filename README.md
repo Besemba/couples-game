@@ -1,5 +1,5 @@
 # Couples - игра в пары
-Домашнее задание курса JavaScript онлайн школы Skillbox
+Домашнее задание курса JavaScript онлайн школы Skillbox <br>
 Результат можно найти по ссылке https://besemba.github.io/couples-game/
 
 ### Цель проекта: 
